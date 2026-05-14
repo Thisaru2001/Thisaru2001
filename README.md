@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Languages
@@ -66,15 +67,20 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&count_private=true" width="49%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=merko&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" width="49%" />
-
+  <a href="https://github.com/Thisaru2001">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&count_private=true" />
+  </a>
+  <a href="https://github.com/Thisaru2001">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=merko&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" />
+  </a>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8" width="60%" />
+  <a href="https://github.com/Thisaru2001">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8" />
+  </a>
 </div>
 
 ---
