@@ -66,7 +66,7 @@
 ## 📊 **GitHub Analytics**
 <div align="center">
   <a href="https://github.com/Thisaru2001">
-    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" />
   </a>
 </div>
 ---
