@@ -8,96 +8,95 @@
   
   🎓 **Undergraduate Student** &nbsp;|&nbsp; 💻 **Full Stack Developer** &nbsp;|&nbsp; 🚀 **Tech Enthusiast**
   
-  <i>Passionate about Web, Cross-Platform Development & AI</i>
+  <i>Building innovative solutions with clean code & modern technologies</i>
   
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Coder GIF" width="350">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coder GIF" width="400" />
 </div>
 
 ---
 
-## 🛠️ **Tech Stack**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25px" /> **Tech Stack**
 
 ### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Languages
 <p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🤖 AI & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### 🛡️ Cybersecurity & Tools
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=merko&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/Thisaru2001">
+    <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Thisaru2001">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=merko&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub Streak" width="48%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&layout=compact" alt="Top Languages" width="40%" />
+  <a href="https://github.com/Thisaru2001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" width="40%" />
+  </a>
 </div>
 
 ---
 
 ## 🌱 **About Me**
 
-<table align="center">
-  <tr>
-    <td>🔭</td>
-    <td>Currently working on <b>Full Stack Web & Mobile Applications</b></td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td>Learning <b>AI/ML & Computational Physics</b></td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td>Love building <b>cross-platform solutions</b></td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td>Fun fact: <b>I turn coffee into code ☕</b></td>
-  </tr>
-</table>
+<div align="center">
+
+| | |
+|---|---|
+| 🔭 | Currently working on **Full Stack Web & Mobile Applications** |
+| 🌱 | Exploring **AI/ML, Computational Mathematics & Physics** |
+| 💡 | Passionate about **cross-platform development & problem solving** |
+| ⚡ | Fun fact: **I turn coffee into code ☕** |
+
+</div>
 
 ---
 
@@ -105,8 +104,12 @@
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=2ECC71)](https://github.com/Thisaru2001)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=2ECC71)](https://linkedin.com/in/wmthisaru-niwantha/)
+  <a href="https://github.com/Thisaru2001">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/wmthisaru-niwantha/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71" alt="LinkedIn" />
+  </a>
   
 </div>
 
@@ -114,6 +117,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Thisaru2001&style=flat-square&color=2ECC71" alt="Profile Views" />
-  <br />
+  <br /><br />
   <i>💚 Thanks for visiting! Let's build something amazing together.</i>
 </div>
