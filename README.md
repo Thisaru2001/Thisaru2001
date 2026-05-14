@@ -66,12 +66,6 @@
 ## 📊 **GitHub Analytics**
 <div align="center">
   <a href="https://github.com/Thisaru2001">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=Thisaru2001&theme=merko&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&mode=daily" />
-  </a>
-</div>
-<br />
-<div align="center">
-  <a href="https://github.com/Thisaru2001">
     <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8" />
   </a>
 </div>
