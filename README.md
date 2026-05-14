@@ -46,41 +46,35 @@
 ### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### 🤖 AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 🛡️ Cybersecurity & Tools
+### 🛡️ Cybersecurity & Ethical Hacking Tools
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004D40?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge" />
 </p>
-
 ---
 
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/Thisaru2001">
-    <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Thisaru2001">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=merko&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub Streak" width="48%" />
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&count_private=true" width="49%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=merko&hide_border=true&background=0D1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" width="49%" />
+
 </div>
 
 <div align="center">
-  <a href="https://github.com/Thisaru2001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" width="40%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&theme=merko&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=FFFFFF&layout=compact&langs_count=8" width="60%" />
 </div>
 
 ---
