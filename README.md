@@ -93,9 +93,6 @@
   <a href="https://github.com/Thisaru2001">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/wmthisaru-niwantha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71" alt="LinkedIn" />
-  </a>
   
 </div>
 
