@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+beautiful%2C+modern+web+experiences;Training+intelligent+machine+learning+models;Creating+cross-platform+mobile+applications;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+beautiful,modern+web+experiences;Training+intelligent+machine+learning+models;Creating+cross-platform+mobile+applications;Always+learning,always+building" alt="Typing SVG" />
 
 <br><br>
 
@@ -45,7 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&icon_color=7B2CBF&hide_border=true&include_all_commits=true&rank_icon=github" alt="Thisaru's GitHub Stats" width="48%" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Thisaru2001&theme=dark&background=0d1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&hide_border=true" alt="Thisaru's GitHub Streak" width="48%" />
+    <img src="https://streak-stats.demolab.com/?user=Thisaru2001&theme=dark&background=0d1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&hide_border=true" alt="Thisaru's GitHub Streak" width="48%" />
   </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&layout=compact&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&hide_border=true" alt="Top Languages" width="60%" />
