@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0B1F3A,100:0EA5E9&height=230&section=header&text=THISARU%20NIWANTHA&fontSize=48&fontColor=E6F6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Cybersecurity%20Research&descAlignY=56&descSize=17&descColor=8FD9FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,50:0B1F3A,100:0EA5E9&height=230&section=header&text=THISARU%20NIWANTHA&fontSize=48&fontColor=E6F6FF&animation=fadeIn&fontAlignY=50"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=850&lines=Full+Stack+%26+Cross-Platform+Developer;Machine+Learning+%2F+AI+Engineer;Computational+Mathematics+%26+Physics;Cybersecurity+%26+Ethical+Hacking+Researcher" alt="roles" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Hacker Boy Coding" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=850&lines=Software+Engineer;Machine+Learning+Engineer;Cybersecurity+Researcher" alt="roles" />
 
 <br>
 
@@ -70,18 +74,6 @@ interests:
 
 <br>
 
-## Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thisaru2001/Thisaru2001/output/github-contribution-grid-snake-dark.svg">
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/Thisaru2001/Thisaru2001/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-<sub>Requires the <a href="https://github.com/Platane/snk">snk</a> GitHub Action configured on the <code>Thisaru2001/Thisaru2001</code> repository to render</sub>
-
-</div>
 
 <br>
 
@@ -116,6 +108,6 @@ interests:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0B1F3A,100:050914&height=120&section=footer"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0B1F3A,100:050914&height=120&section=footer"/>
 </div>
