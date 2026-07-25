@@ -1,10 +1,16 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=150&lines=THISARU+NIWANTHA;Full+Stack+Developer+%7C+AI+%26+ML+%7C+Computational+Science;Building+The+Future%2C+One+Line+At+A+Time" alt="Matrix Typing" />
-</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,1,2,3,4,5&height=280&section=header&text=THISARU%20NIWANTHA&fontSize=55&fontColor=00ffff&animation=twinkling&desc=>%20Full%20Stack%20%7C%20AI/ML%20%7C%20Cyber%20Security&descSize=16&descAlignY=70&fontAlignY=30" width="100%" />
+  
+  <br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Neural+Network...;%3E+Loading+AI+Modules...;%3E+Compiling+Futuristic+Code...;%3E+System+Ready%3A+Welcome+to+My+Profile">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Neural+Network...;%3E+Loading+AI+Modules...;%3E+Compiling+Futuristic+Code...;%3E+System+Ready%3A+Welcome+to+My+Profile" alt="Terminal Loading">
+  </picture>
+  
 </div>
 
 <br>
