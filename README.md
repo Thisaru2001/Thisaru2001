@@ -46,34 +46,35 @@ interests:
 ## Tech Stack
 
 **Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,html,css,tailwind,bootstrap,vite&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,html,css,tailwind,bootstrap&theme=dark&perline=10" />
 
 <br>
 
 **Backend & Languages**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs,cpp,php,django,fastapi,spring,mysql,mongodb,firebase&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs,php,mysql,mongodb,firebase&theme=dark&perline=10" />
 
 <br>
 
-**AI / Machine Learning**<br>
+**ML / AI Frameworks**<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy&theme=dark&perline=10" />
+
 <br>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-F7931E?style=for-the-badge&logo=huggingface&logoColor=white" />
+
+**AI Tools & APIs**<br>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-F7931E?style=for-the-badge&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector_DBs-050914?style=for-the-badge&color=0EA5E9" />
 
 <br><br>
 
-**Security, Tooling & Others**<br>
-<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,vscode,figma,jira,githubactions&theme=dark&perline=10" />
-<br>
-<img src="https://img.shields.io/badge/CI%2FCD-050914?style=for-the-badge&color=0EA5E9" />
-<img src="https://img.shields.io/badge/IoT-050914?style=for-the-badge&color=0EA5E9" />
-<img src="https://img.shields.io/badge/OpenBase-050914?style=for-the-badge&color=0EA5E9" />
+**Security & Dev Tools**<br>
+<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,vscode&theme=dark&perline=10" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+<br><br>
+
+**Design**<br>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark&perline=10" />
 
 <br>
 
