@@ -68,10 +68,6 @@
   <br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD" alt="GitHub Streak" />
-  
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisaru2001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=FFFFFF" width="100%" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -79,7 +75,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thisaru2001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Thisaru2001&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </div>
 
 <br>
@@ -87,9 +83,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Thisaru2001/Thisaru2001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-  <br>
-  <sub>✨ <i>Powered by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action</i></sub>
+  <img src="https://ghchart.rshah.org/9D4EDD/Thisaru2001" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br>
