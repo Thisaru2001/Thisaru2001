@@ -41,8 +41,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&icon_color=7B2CBF&hide_border=true&include_all_commits=true" alt="Thisaru's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=dark&background=0d1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&hide_border=true" alt="Thisaru's GitHub Streak" width="48%" />
+  <a href="https://github.com/Thisaru2001">
+    <img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&icon_color=7B2CBF&hide_border=true&include_all_commits=true&rank_icon=github" alt="Thisaru's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Thisaru2001&theme=dark&background=0d1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&hide_border=true" alt="Thisaru's GitHub Streak" width="48%" />
+  </a>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&layout=compact&bg_color=0d1117&title_color=9D4EDD&text_color=ffffff&hide_border=true" alt="Top Languages" width="60%" />
 </div>
