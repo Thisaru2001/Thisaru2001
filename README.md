@@ -1,20 +1,36 @@
 <div align="center">
 
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,1,2,3,4,5&height=280&section=header&text=THISARU%20NIWANTHA&fontSize=55&fontColor=00ffff&animation=twinkling&desc=>%20Full%20Stack%20%7C%20AI/ML%20%7C%20Cyber%20Security&descSize=16&descAlignY=70&fontAlignY=30" width="100%" />
-  
-  <br>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Neural+Network...;%3E+Loading+AI+Modules...;%3E+Compiling+Futuristic+Code...;%3E+System+Ready%3A+Welcome+to+My+Profile">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Neural+Network...;%3E+Loading+AI+Modules...;%3E+Compiling+Futuristic+Code...;%3E+System+Ready%3A+Welcome+to+My+Profile" alt="Terminal Loading">
-  </picture>
-  
-</div>
+<!-- Futuristic Coding/Hacking Animation at Top -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <br>
 
+<!-- Animated Header with Your Name -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,1,2,3,4,5&height=280&section=header&text=THISARU%20NIWANTHA&fontSize=55&fontColor=00ffff&animation=twinkling&desc=Full%20Stack%20%7C%20AI/ML%20%7C%20Cyber%20Security&descSize=16&descAlignY=70&fontAlignY=30" width="100%" />
+
+<br>
+
+<!-- Coding Boy Animation -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+<!-- OR Choose One of These Hacker/Coding GIFs -->
+<!-- 
+<img align="right" alt="Hacking" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" alt="Programmer" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+-->
+
+<br>
+
+<!-- Terminal Loading Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Neural+Network...;%3E+Loading+AI+Modules...;%3E+Compiling+Futuristic+Code...;%3E+System+Ready%3A+Welcome+to+My+Profile">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Neural+Network...;%3E+Loading+AI+Modules...;%3E+Compiling+Futuristic+Code...;%3E+System+Ready%3A+Welcome+to+My+Profile" alt="Terminal Loading">
+</picture>
+
+<br><br>
+
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+beautiful,modern+web+experiences;Training+intelligent+machine+learning+models;Creating+cross-platform+mobile+applications;Always+learning,always+building" alt="Typing SVG" />
 
 <br><br>
@@ -104,6 +120,11 @@
     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
+
+<br>
+
+<!-- Animated Contribution Snake -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <br>
 
