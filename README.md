@@ -59,34 +59,6 @@
 
 <br>
 
-## 📊 Analytics & Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&langs_count=8&hide=html,css" alt="Top Languages" />
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thisaru2001&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD" alt="GitHub Streak" />
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thisaru2001&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies" />
-</div>
-
-<br>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/9D4EDD/Thisaru2001" width="100%" alt="Contribution Graph"/>
-</div>
-
-<br>
 
 ## 🤝 Connect With Me
 
