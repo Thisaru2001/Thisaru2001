@@ -121,7 +121,7 @@ interests:
 <a href="https://linkedin.com/in/thisaru-niwantha">
 <img src="https://img.shields.io/badge/LinkedIn-050914?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:thisaruniwantha0315@gmail.com">
 <img src="https://img.shields.io/badge/Email-050914?style=for-the-badge&logo=gmail&logoColor=4FC3F7" />
 </a>
 <a href="https://yourportfolio.dev">
