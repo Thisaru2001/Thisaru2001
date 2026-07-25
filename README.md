@@ -124,7 +124,7 @@ interests:
 <a href="mailto:thisaruniwantha0315@gmail.com">
 <img src="https://img.shields.io/badge/Email-050914?style=for-the-badge&logo=gmail&logoColor=4FC3F7" />
 </a>
-<a href="https://yourportfolio.dev">
+<a href="https://thisaru2001.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-050914?style=for-the-badge&logo=vercel&logoColor=4FC3F7" />
 </a>
 
