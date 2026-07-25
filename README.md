@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=300&section=header&text=Thisaru%20Niwantha&fontSize=65&fontAlignY=35&fontColor=00ffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20AI%20&%20ML%20|%20Computational%20Science&descAlignY=55&descSize=18&fontAlign=50&stroke=00ffff&strokeWidth=1" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=150&lines=THISARU+NIWANTHA;Full+Stack+Developer+%7C+AI+%26+ML+%7C+Computational+Science;Building+The+Future%2C+One+Line+At+A+Time" alt="Matrix Typing" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+</div>
 
 <br>
 
