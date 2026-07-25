@@ -81,12 +81,12 @@ class ThisaruNiwantha:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thisaru2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=BF5AF2&text_color=FFFFFF&ring_color=00F7FF&include_all_commits=true" height="180" />
+<img src="https://github-stats-extended.vercel.app/api?username=Thisaru2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=BF5AF2&text_color=FFFFFF&ring_color=00F7FF&include_all_commits=true" height="180" />
 <img src="https://streak-stats.demolab.com/?user=Thisaru2001&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=BF5AF2&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=BF5AF2&dates=666666" height="180" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisaru2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="55%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Thisaru2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="55%" />
 
 <br><br>
 
