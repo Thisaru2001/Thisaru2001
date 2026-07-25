@@ -46,22 +46,34 @@ interests:
 ## Tech Stack
 
 **Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,html,css,tailwind,vite&amp;theme=dark&amp;perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,html,css,tailwind,bootstrap,vite&amp;theme=dark&amp;perline=10" />
 
 <br>
 
 **Backend & Languages**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs,php,mysql,mongodb,firebase&amp;theme=dark&amp;perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cs,cpp,php,django,fastapi,spring,mysql,mongodb,firebase&amp;theme=dark&amp;perline=14" />
 
 <br>
 
 **AI / Machine Learning**<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,py&amp;theme=dark&amp;perline=9" />
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy&amp;theme=dark&amp;perline=10" />
 <br>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=Keras&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-F7931E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_DBs-050914?style=for-the-badge&amp;color=0EA5E9" />
 
-**Security & Tooling**<br>
-<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,vscode,figma&amp;theme=dark&amp;perline=9" />
+<br><br>
+
+**Security, Tooling & Others**<br>
+<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,github,vscode,figma,jira,githubactions&amp;theme=dark&amp;perline=10" />
+<br>
+<img src="https://img.shields.io/badge/CI%2FCD-050914?style=for-the-badge&amp;color=0EA5E9" />
+<img src="https://img.shields.io/badge/IoT-050914?style=for-the-badge&amp;color=0EA5E9" />
+<img src="https://img.shields.io/badge/OpenBase-050914?style=for-the-badge&amp;color=0EA5E9" />
 
 <br>
 
