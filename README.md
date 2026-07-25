@@ -66,10 +66,6 @@ interests:
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Thisaru2001&layout=compact&theme=dark&hide_border=true&bg_color=050914&title_color=4FC3F7&text_color=D6EEFF" width="55%" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thisaru2001&theme=react-dark&bg_color=050914&color=4FC3F7&line=0EA5E9&point=D6EEFF&hide_border=true&area=true&area_color=0EA5E9" width="100%" />
-
 </div>
 
 <br>
